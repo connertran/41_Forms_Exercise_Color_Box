@@ -7,36 +7,36 @@ exports[`matches snapshot 1`] = `
   </h2>
   <form>
     <label
-      for="e64b3cb6-a450-4b28-828e-5de13fb09730"
+      for="7394907a-ba13-40d7-8d2d-a4df2463fc3f"
     >
       Background: 
     </label>
     <input
-      id="e64b3cb6-a450-4b28-828e-5de13fb09730"
+      id="7394907a-ba13-40d7-8d2d-a4df2463fc3f"
       name="backgroundColor"
       placeholder=" Enter Background Color"
       type="text"
       value=""
     />
     <label
-      for="881175fd-84fa-4b4b-b66e-400300a0211f"
+      for="78fff0a4-4665-42ff-beae-59f217202525"
     >
       Width: 
     </label>
     <input
-      id="881175fd-84fa-4b4b-b66e-400300a0211f"
+      id="78fff0a4-4665-42ff-beae-59f217202525"
       name="width"
       placeholder=" Enter width value, e.g. 140px"
       type="text"
       value=""
     />
     <label
-      for="b71a7d32-f098-4c0c-a5ef-a6b305b251f3"
+      for="a68f0abc-b0b9-4e07-aa68-4dd7536e7c92"
     >
       Height: 
     </label>
     <input
-      id="b71a7d32-f098-4c0c-a5ef-a6b305b251f3"
+      id="a68f0abc-b0b9-4e07-aa68-4dd7536e7c92"
       name="height"
       placeholder=" Enter height value, e.g. 240px"
       type="text"
